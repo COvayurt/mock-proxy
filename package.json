@@ -1,0 +1,22 @@
+{
+  "name": "mock-proxy",
+  "version": "1.0.0",
+  "description": "proxy",
+  "main": "mock-proxy.js",
+  "dependencies": {
+    "cluster": "0.7.7",
+    "os": "0.1.1",
+    "properties-reader": "0.0.16",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ignore"
+  },
+  "keywords": [
+    "proxy",
+    "mock"
+  ],
+  "author": "covayurt",
+  "license": "UNLICENSED"
+}
